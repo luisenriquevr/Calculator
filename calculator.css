@@ -1,0 +1,38 @@
+table {
+	display:block;
+	margin:0 auto;
+	padding:20px;
+	background-color: #4657dc;
+	width:600px;
+	height:560px;
+	border-radius:25px;
+}
+button {
+	display:block;
+	width:135px;
+	height:70px;
+	font-size:50px;
+	border-radius:15px;
+	outline:none;
+}
+
+#result {
+	display:block;
+	text-align:center;
+	font-size:80px;
+	margin-bottom:20px;
+	width:550px;
+	height:120px;
+	line-height:100px;
+	background-color:#fff;
+	border-radius:25px;
+	overflow-y:hidden;
+}
+#calc {
+	display:block;
+	text-align:center;
+	font-size:50px;
+	width:550px;
+	height:70px;
+	border-radius:15px;
+}
